@@ -1,0 +1,41 @@
+/* cor do texto
+p{color: rgb(214, 34, 34);}
+
+figcaption{color: rgb(209, 57, 57);}
+/* cor do fundo */
+/* p{background-color: rgb(0, 0, 0);} */
+/* imagem de fundo, repetição, fixa ou nao e posição (center, right, left...) */
+/* body{background-image:url(/img/facebook.jpg);
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-position: 50% 50%;
+    } */
+
+/* fonte do texto  */
+/* h1{font-family:Arial, Helvetica, sans-serif;}
+
+h2{font-family: 'Times New Roman', Times, serif;}
+
+/* tamanho da fonte, pexels(PX) , porcentagem(%) ou EMs(em) */
+/* p{font-size: 20px; */
+    /* normal ou negrito  */
+    /* font-weight: bold; */
+    /* normal, italico ou obliquo */
+    /* font-style: italic; */
+    /* um pouco abaixo da caixa alta ou normal */
+    /* font-variant: normal; */
+}
+/* posição do texto */
+/* p{text-align:  justify;} */
+/* maiuscula ou minuscula */
+/* p{text-transform:uppercase;} */
+/* decoração do texto */
+/* p{text-decoration: underline overline;} */
+/* cria uma sobra nas letras do texto (horizontal, vertical, distroção e cor) */
+/* p{text-shadow: 0px 0px 5px rgb(34, 32, 158);} */
+
+/* outras configurações de texto - todas usando px dps */
+/* Line-height: Regula o espaço entre linhas de um parágrafo. 
+Letter-spacing: Define o espaçamento entre as letras do texto. 
+Word-spacing: Define o espaçamento entre as palavras do texto.
+Text-indent: Recua a primeira linha de um objeto de t */ 
