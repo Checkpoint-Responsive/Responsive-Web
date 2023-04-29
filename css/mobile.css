@@ -17,14 +17,14 @@ figcaption{color: rgb(209, 57, 57);}
 h2{font-family: 'Times New Roman', Times, serif;}
 
 /* tamanho da fonte, pexels(PX) , porcentagem(%) ou EMs(em) */
-/* p{font-size: 20px; */
+p{font-size: 20px;
     /* normal ou negrito  */
     /* font-weight: bold; */
     /* normal, italico ou obliquo */
     /* font-style: italic; */
     /* um pouco abaixo da caixa alta ou normal */
     /* font-variant: normal; */
-}
+/* } */
 /* posição do texto */
 /* p{text-align:  justify;} */
 /* maiuscula ou minuscula */
@@ -39,3 +39,4 @@ h2{font-family: 'Times New Roman', Times, serif;}
 Letter-spacing: Define o espaçamento entre as letras do texto. 
 Word-spacing: Define o espaçamento entre as palavras do texto.
 Text-indent: Recua a primeira linha de um objeto de t */ 
+/* p{width: 80%;} */
