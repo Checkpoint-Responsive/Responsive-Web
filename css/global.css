@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5% ;
+}
+
+body{
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body div{
+    font-size: 1.6rem;
+    padding: 5rem 11rem 11rem;
+    padding-bottom: 0rem;
+    font-family: 'Mulish', sans-serif;
+    
+
+}
+
+header img{
+   width: 12rem ;
+   height: 4.6rem;
+}
+
+header{
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 5.8rem;
+}
+
+header nav{
+    display: flex;
+    gap: 3rem;
+}
+
+header nav a{
+    text-decoration: none;
+    Font-style: Bold;
+    Font-size: 1.8rem;
+    Line-height: 2.3rem;
+    color: rgba(31, 21, 52, 0.5);
+}
+
+header nav a:hover{
+    color: #1F1534;
+    
+}
+
+section div h2{
+    color: rgba(137, 197, 204, 1);
+    Font-family: Mulish;
+    Font-style: Regular;
+    Font-size: 3rem;
+    Line-height: 3.2rem;
+    width: 48.9rem;
+}
+
+section div p{
+    width: 45rem;
+    overflow: none;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+section figure img{
+    width: 40rem;
+
+}
+
+section figure figcaption{
+    padding-left: 1.6rem;
+}
+
+footer{
+
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer img{
+    width: 4rem;
+}
